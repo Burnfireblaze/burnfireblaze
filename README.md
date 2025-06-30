@@ -20,6 +20,8 @@ Full-Stack Web Developer @ AB InBev
 
 ![Sudarsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=burnfireblaze&theme=dark&show_icons=true&&hide=issues,contribs)
 
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=burnfireblaze&size_weight=0.5&count_weight=0.5)
+
 [![Leetcode Stats](https://leetcard.jacoblin.cool/burnfireblaze?ext=contest&theme=dark)](https://leetcode.com/burnfireblaze)
 
 [![Sudarsan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=burnfireblaze&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
