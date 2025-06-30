@@ -28,6 +28,8 @@ Full-Stack Web Developer @ AB InBev
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=burnfireblaze&repo=AB-InBev-Maverick-2.0-Botathon-OCR-Byte-Warriors&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
 </a>
 
+<br/>
+
 ![Sudarsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=burnfireblaze&theme=dark&show_icons=true&&hide=issues,contribs)
 
 ![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=burnfireblaze&size_weight=0.5&count_weight=0.5&theme=dark)
