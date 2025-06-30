@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Sudarsan
 
 Full-Stack Web Developer @ AB InBev
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<!-- <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"> -->
 - 🔭 Here's my [portfolio]()                                                 
 - 🌱 I’m an incoming student, for master of science in computer sceince @ [<img src="https://www.ucdavis.edu/profiles/sitefarm/themes/sitefarm_one/images/uc-logo-gold.svg&w=137.5" height="22.5">](https://www.ucdavis.edu/)
 - Undergrad at [<img src="https://d23qowwaqkh3fj.cloudfront.net/wp-content/uploads/2022/01/srm-logo-white.svg.gzip&w=140" height="81">](https://www.srmist.edu.in/),
@@ -17,6 +17,16 @@ Full-Stack Web Developer @ AB InBev
 
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
+
+### 🗂️ Highlight Projects
+
+<a href="https://github.com/Zhenye-Na/DA-RNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=burnfireblaze&repo=Pneumonia-Detection---CNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
+</a>
+
+<a href="https://github.com/Zhenye-Na/crnn-pytorch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=burnfireblaze&repo=AB-InBev-Maverick-2.0-Botathon-OCR-Byte-Warriors&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+</a>
 
 ![Sudarsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=burnfireblaze&theme=dark&show_icons=true&&hide=issues,contribs)
 
