@@ -22,7 +22,7 @@ Full-Stack Web Developer @ AB InBev
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/burnfireblaze?ext=contest&theme=dark)](https://leetcode.com/burnfireblaze)
 
-[![Sudarsan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=burnfireblaze-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sudarsan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=burnfireblaze&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **Burnfireblaze/burnfireblaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
