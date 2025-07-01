@@ -3,7 +3,7 @@
 Full-Stack Web Developer @ AB InBev
 <!-- <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"> -->
 - 🔭 Here's my [portfolio]()                                                 
-- 🌱 I’m an incoming student, for master of science in computer sceince @ [<img src="https://cs.ucdavis.edu/sites/g/files/dgvnsk8441/files/cs_logo_125px.png" height="22.5">](https://www.ucdavis.edu/)
+- 🌱 I’m an incoming student, for master of science in computer sceince @ [<img src="https://logos-world.net/wp-content/uploads/2022/12/UC-Davis-Logo.png" height="22.5">](https://www.ucdavis.edu/)
 - Undergrad at [<img src="https://d23qowwaqkh3fj.cloudfront.net/wp-content/uploads/2022/01/srm-logo-white.svg.gzip&w=140" height="81">](https://www.srmist.edu.in/),
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />]() <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sudarsan-srivathsun/)
