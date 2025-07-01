@@ -33,8 +33,6 @@ Full-Stack Web Developer @ AB InBev
 ###
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=burnfireblaze&theme=dracula&border_radius=5)](https://git.io/streak-stats)
-  <img src="https://github-profile-trophy.vercel.app?username=burnfireblaze&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-
 
 ![Sudarsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=burnfireblaze&theme=dark&show_icons=true&&hide=issues,contribs)
 
