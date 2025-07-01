@@ -30,6 +30,14 @@ Full-Stack Web Developer @ AB InBev
 
 <br/>
 
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=burnfireblaze&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=burnfireblaze&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+
 ![Sudarsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=burnfireblaze&theme=dark&show_icons=true&&hide=issues,contribs)
 
 ![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=burnfireblaze&size_weight=0.5&count_weight=0.5&theme=dark)
@@ -37,6 +45,16 @@ Full-Stack Web Developer @ AB InBev
 [![Leetcode Stats](https://leetcard.jacoblin.cool/burnfireblaze?ext=contest&theme=dark)](https://leetcode.com/burnfireblaze)
 
 [![Sudarsan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=burnfireblaze&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/burnfireblaze/burnfireblaze/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/burnfireblaze/burnfireblaze/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/burnfireblaze/burnfireblaze/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 <!--
 **Burnfireblaze/burnfireblaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
