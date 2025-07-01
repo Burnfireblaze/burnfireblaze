@@ -42,12 +42,12 @@ Full-Stack Web Developer @ AB InBev
 
 [![Sudarsan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=burnfireblaze&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-###
+## My Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/burnfireblaze/burnfireblaze/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/burnfireblaze/burnfireblaze/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/burnfireblaze/burnfireblaze/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/burnfireblaze/burnfireblaze/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/burnfireblaze/burnfireblaze/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/burnfireblaze/burnfireblaze/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
