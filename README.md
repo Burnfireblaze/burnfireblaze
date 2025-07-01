@@ -20,11 +20,11 @@ Full-Stack Web Developer @ AB InBev
 
 ### 🗂️ Highlight Projects
 
-<a href="https://github.com/Zhenye-Na/DA-RNN">
+<a href="[https://github.com/Zhenye-Na/DA-RNN](https://github.com/Burnfireblaze/Pneumonia-Detection---CNN)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=burnfireblaze&repo=Pneumonia-Detection---CNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
 </a>
 
-<a href="https://github.com/Zhenye-Na/crnn-pytorch">
+<a href="https://github.com/Burnfireblaze/AB-InBev-Maverick-2.0-Botathon-OCR-Byte-Warriors">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=burnfireblaze&repo=AB-InBev-Maverick-2.0-Botathon-OCR-Byte-Warriors&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
 </a>
 
@@ -48,9 +48,9 @@ Full-Stack Web Developer @ AB InBev
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/burnfireblaze/burnfireblaze/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/burnfireblaze/burnfireblaze/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/burnfireblaze/burnfireblaze/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
