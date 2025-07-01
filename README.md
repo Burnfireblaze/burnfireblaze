@@ -3,7 +3,7 @@
 Full-Stack Web Developer @ AB InBev
 <!-- <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"> -->
 - 🔭 Here's my [portfolio]()                                                 
-- 🌱 I’m an incoming student, for master of science in computer sceince at: <br/> [<img src="https://logos-world.net/wp-content/uploads/2022/12/UC-Davis-Logo.png" height="50" width="88.88">](https://www.ucdavis.edu/)
+- 🌱 I’m an incoming student, for master of science in computer science at: <br/> [<img src="https://logos-world.net/wp-content/uploads/2022/12/UC-Davis-Logo.png" height="50" width="88.88">](https://www.ucdavis.edu/)
 - Undergrad (B.Tech in Computer Science and Engineering) at:<br/>
   [<img src="https://shbf.srmist.edu.in/images/s.png" height="50" width="87.57">](https://www.srmist.edu.in/)
 - Social Presence
