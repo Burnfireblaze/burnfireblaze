@@ -1,71 +1,81 @@
-## Hi there 👋 I am Sudarsan
+# Hi, I'm Sudarsan 👋
 
-Full-Stack Web Developer @ AB InBev
-<!-- <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"> -->                                            
-- 🌱 I’m an incoming student, for master of science in computer science at: <br/> [<img src="https://logos-world.net/wp-content/uploads/2022/12/UC-Davis-Logo.png" height="50" width="88.88">](https://www.ucdavis.edu/)
-- Undergrad (B.Tech in Computer Science and Engineering) at:<br/>
-  [<img src="https://shbf.srmist.edu.in/images/s.png" height="50" width="87.57">](https://www.srmist.edu.in/)
-- Social Presence
-<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />]() <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sudarsan-srivathsun/)
+Backend and systems engineer working at the intersection of **distributed systems**, **backend infrastructure**, and **applied AI**. Interested in the layer that makes production systems reliable, observable, and fast. Building toward performance engineering and AI inference platforms long-term.
 
-### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+- 🎓 **MS Computer Science** @ UC Davis (Plan II, graduating 2027)
+- 💼 **Ex-Software Engineer II (Full Stack)** @ AB InBev ,  3+ years shipping production backend, APIs, and full-stack features
+- 🎓 **B.Tech Computer Science & Engineering** @ SRM
+- 🌐 [LinkedIn](YOUR_LINKEDIN) · [Portfolio](YOUR_PORTFOLIO) · [Email](mailto:YOUR_EMAIL)
 
-### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/azure-1.png" alt="azure-1"/> <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-development-experience-through-the-native-integrations-of-azure-with-visual-studio-logo-color-tal-revivo.png"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/>
+---
 
-### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
+## 🚀 Featured Projects
 
-### 🗂️ Highlight Projects
+### **Wirecracker** ,  Clinical Decision Support Platform @ UC Davis Neurology
+Backend and data platform for epilepsy surgery planning. REST APIs for spatial brain-region queries and patient data ingestion; integration with visualization frontends used by clinicians in active surgical workflows.
+**Stack:** TypeScript · Node.js · PostgreSQL · REST APIs · spatial data
+🔗 [UCD-193AB-ws24/Wirecracker](https://github.com/UCD-193AB-ws24/Wirecracker)
 
-<a href="[https://github.com/Zhenye-Na/DA-RNN](https://github.com/Burnfireblaze/Pneumonia-Detection---CNN)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=burnfireblaze&repo=Pneumonia-Detection---CNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
-</a>
+### **SDR_RDMA_UDP** ,  Erasure-Coded Reliable Transport
+Cross-WAN reliable file transfer over RDMA/UDP using Reed-Solomon erasure coding. Application-layer packet recovery and congestion control with no TCP fallback, keeping tail latency low under loss.
+**Stack:** C++ · RDMA verbs · UDP · Reed-Solomon · systems networking
+🔗 [harish876/SDR_RDMA_UDP](https://github.com/harish876/SDR_RDMA_UDP)
 
-<a href="https://github.com/Burnfireblaze/AB-InBev-Maverick-2.0-Botathon-OCR-Byte-Warriors">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=burnfireblaze&repo=AB-InBev-Maverick-2.0-Botathon-OCR-Byte-Warriors&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
-</a>
+### **Apache ResilientDB / ResQL** ,  BFT Distributed Ledger
+Contributed to Apache ResilientDB, a global-scale sustainable blockchain fabric. Working on SQL-over-PBFT integration and DuckDB-backed transaction processing.
+**Stack:** C++ · PBFT consensus · DuckDB · distributed databases · Apache open source
+🔗 [DDS-Project-Team/resilientdb-resql](https://github.com/DDS-Project-Team/resilientdb-resql)
 
-<br/>
+### **AI Travel Agent** ,  Multi-Step LangGraph Agent
+Production-shaped agent handling travel planning with tool-using reasoning across specialized nodes. Persistent state across turns, tool integrations for search and planning, error recovery, and traced multi-step reasoning.
+**Stack:** Python · LangGraph · LangChain · LLM APIs · agent orchestration
+🔗 [Burnfireblaze/ai-travel-agent](https://github.com/Burnfireblaze/ai-travel-agent)
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app?username=burnfireblaze&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+---
 
-###
+## 🏢 Previously @ AB InBev (2022 — 2025)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=burnfireblaze&theme=dracula&border_radius=5)](https://git.io/streak-stats)
+**Software Engineer II (Full Stack)**, promoted from Software Engineer I over 3+ years at AB InBev's Global Capability Center. Shipped production backend, data, and full-stack features for a global CPG platform.
 
-![Sudarsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=burnfireblaze&theme=dark&show_icons=true&&hide=issues,contribs)
+- Built and owned **REST APIs** and backend services in **Node.js** and **.NET**, integrated with **SQL Server** and **PostgreSQL** databases.
+- Optimized long-running SQL queries via indexing strategy and query rewrites; cut worst-case API latency from **50s to 4s** on the [service name] endpoint.
+- Owned **Azure Data Factory** pipelines processing operational data across multiple downstream consumers; built and maintained **Azure Functions** for event-driven workflows.
+- Built full-stack features across **React** and **TypeScript** frontends against internal backend APIs.
+- **Region-level DRI on 100+ production incidents**; wrote runbooks and post-incident reviews.
+- Served as **Solution Architect** on a key platform project, owning system design and technical strategy.
+- Set coding standards and reviewed PRs for the backend team.
 
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=burnfireblaze&size_weight=0.5&count_weight=0.5&theme=dark)
+---
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/burnfireblaze?ext=contest&theme=dark)](https://leetcode.com/burnfireblaze)
+## 🛠️ Tech I work with
 
-[![Sudarsan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=burnfireblaze&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+**Languages:** C++, Python, Go, SQL, TypeScript, JavaScript, C, .NET/C#
+**Backend & Systems:** REST APIs, gRPC, PBFT consensus, RDMA/UDP, erasure coding, event-driven architectures, message queues
+**Databases:** SQL Server, PostgreSQL, MySQL, MongoDB, Redis, DuckDB; query optimization, indexing, schema design
+**AI / ML:** LangGraph, LangChain, RAG, agent orchestration, Keras/TensorFlow, LLM APIs
+**Cloud / Infra:** Azure (Functions, Data Factory, DevOps, App Service), Docker, GitHub Actions
+**Frontend:** React, TypeScript, HTML/CSS
+**Dev Tools:** VS Code, PyCharm, Postman, Claude Code, Codex
+**Currently learning:** Rust, low-latency C++, LLM inference optimization (vLLM, SGLang)
 
-## My Contribution Graph
+---
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/burnfireblaze/burnfireblaze/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/burnfireblaze/burnfireblaze/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/burnfireblaze/burnfireblaze/output/pacman-contribution-graph.svg">
-</picture>
+## 📊 GitHub Stats
 
-###
-<!--
-**Burnfireblaze/burnfireblaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Burnfireblaze&show_icons=true&theme=radical&hide_border=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burnfireblaze&layout=compact&theme=radical&hide_border=true" />
+</p>
+<br clear="both"/>
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Burnfireblaze&theme=radical&hide_border=true" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### LeetCode
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Burnfireblaze?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/Burnfireblaze/)
+
+---
+
+*Open to full-time roles in Backend Engineering, Distributed Systems, Platform Engineering, and Applied AI / Agent Infrastructure, starting June 2027.*
