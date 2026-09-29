@@ -1,81 +1,111 @@
-# Hi, I'm Sudarsan 👋
+# Hi, I'm Sudarsan Srivathsun
 
-Backend and systems engineer working at the intersection of **distributed systems**, **backend infrastructure**, and **applied AI**. Interested in the layer that makes production systems reliable, observable, and fast. Building toward performance engineering and AI inference platforms long-term.
+**Software Engineer | MS Computer Science @ UC Davis**
 
-- 🎓 **MS Computer Science** @ UC Davis (Plan II, graduating 2027)
-- 💼 **Ex-Software Engineer II (Full Stack)** @ AB InBev ,  3+ years shipping production backend, APIs, and full-stack features
-- 🎓 **B.Tech Computer Science & Engineering** @ SRM
-- 🌐 [LinkedIn](YOUR_LINKEDIN) · [Portfolio](YOUR_PORTFOLIO) · [Email](mailto:YOUR_EMAIL)
+I build backend systems and production software, with a focus on APIs, data-intensive services, performance, and reliable distributed systems. I also work on applied AI, agentic systems, and AI infrastructure.
 
----
+Currently pursuing my MS in Computer Science at UC Davis, graduating June 2027. Previously spent 3+ years at AB InBev in Bengaluru as a Full Stack Software Engineer. Worked on high-throughput financial and supply chain systems across multiple regions.
 
-## 🚀 Featured Projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sudarsan%20Srivathsun-blue?style=flat-square)](https://linkedin.com/in/sudarsan-srivathsun)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sudarsansrivathsun.com-black?style=flat-square)](https://sudarsansrivathsun.com)
+[![Email](https://img.shields.io/badge/Email-srisudarsan2000%40gmail.com-red?style=flat-square)](mailto:srisudarsan2000@gmail.com)
 
-### **Wirecracker** ,  Clinical Decision Support Platform @ UC Davis Neurology
-Backend and data platform for epilepsy surgery planning. REST APIs for spatial brain-region queries and patient data ingestion; integration with visualization frontends used by clinicians in active surgical workflows.
-**Stack:** TypeScript · Node.js · PostgreSQL · REST APIs · spatial data
-🔗 [UCD-193AB-ws24/Wirecracker](https://github.com/UCD-193AB-ws24/Wirecracker)
+## What I Work On
 
-### **SDR_RDMA_UDP** ,  Erasure-Coded Reliable Transport
-Cross-WAN reliable file transfer over RDMA/UDP using Reed-Solomon erasure coding. Application-layer packet recovery and congestion control with no TCP fallback, keeping tail latency low under loss.
-**Stack:** C++ · RDMA verbs · UDP · Reed-Solomon · systems networking
-🔗 [harish876/SDR_RDMA_UDP](https://github.com/harish876/SDR_RDMA_UDP)
+* **Software and Backend:** Software Engineering, Backend Engineering
+* **Systems:** Distributed Systems
+* **AI:** Applied AI, Agentic AI
 
-### **Apache ResilientDB / ResQL** ,  BFT Distributed Ledger
-Contributed to Apache ResilientDB, a global-scale sustainable blockchain fabric. Working on SQL-over-PBFT integration and DuckDB-backed transaction processing.
-**Stack:** C++ · PBFT consensus · DuckDB · distributed databases · Apache open source
-🔗 [DDS-Project-Team/resilientdb-resql](https://github.com/DDS-Project-Team/resilientdb-resql)
+## Featured Projects
 
-### **AI Travel Agent** ,  Multi-Step LangGraph Agent
-Production-shaped agent handling travel planning with tool-using reasoning across specialized nodes. Persistent state across turns, tool integrations for search and planning, error recovery, and traced multi-step reasoning.
-**Stack:** Python · LangGraph · LangChain · LLM APIs · agent orchestration
-🔗 [Burnfireblaze/ai-travel-agent](https://github.com/Burnfireblaze/ai-travel-agent)
+### [SDR_RDMA_UDP](https://github.com/harish876/SDR_RDMA_UDP)
 
----
+Reliable file transfer protocol over UDP using Reed-Solomon erasure coding (Intel ISA-L).
 
-## 🏢 Previously @ AB InBev (2022 — 2025)
+* Engineered application-layer packet recovery and custom congestion control with no TCP fallback.
+* Sustained ~1000 Mbps steady throughput across 0-10% packet loss on 100 MiB to 1 GiB transfers.
+* **Stack:** C++, UDP, Reed-Solomon
 
-**Software Engineer II (Full Stack)**, promoted from Software Engineer I over 3+ years at AB InBev's Global Capability Center. Shipped production backend, data, and full-stack features for a global CPG platform.
+### [Apache ResilientDB / ResQL](https://github.com/DDS-Project-Team/resilientdb-resql)
 
-- Built and owned **REST APIs** and backend services in **Node.js** and **.NET**, integrated with **SQL Server** and **PostgreSQL** databases.
-- Optimized long-running SQL queries via indexing strategy and query rewrites; cut worst-case API latency from **50s to 4s** on the [service name] endpoint.
-- Owned **Azure Data Factory** pipelines processing operational data across multiple downstream consumers; built and maintained **Azure Functions** for event-driven workflows.
-- Built full-stack features across **React** and **TypeScript** frontends against internal backend APIs.
-- **Region-level DRI on 100+ production incidents**; wrote runbooks and post-incident reviews.
-- Served as **Solution Architect** on a key platform project, owning system design and technical strategy.
-- Set coding standards and reviewed PRs for the backend team.
+Open-source contribution to Apache ResilientDB, a Byzantine Fault Tolerant blockchain framework in C++.
 
----
+* Integrated an embedded DuckDB SQL engine into the core key-value storage layer.
+* Authored deployment and startup tooling for 4-replica PBFT consensus clusters.
+* **Stack:** C++, PBFT consensus, DuckDB
 
-## 🛠️ Tech I work with
+### [Chaos-Tested LangGraph Agent](https://github.com/Burnfireblaze/ai-travel-agent)
 
-**Languages:** C++, Python, Go, SQL, TypeScript, JavaScript, C, .NET/C#
-**Backend & Systems:** REST APIs, gRPC, PBFT consensus, RDMA/UDP, erasure coding, event-driven architectures, message queues
-**Databases:** SQL Server, PostgreSQL, MySQL, MongoDB, Redis, DuckDB; query optimization, indexing, schema design
-**AI / ML:** LangGraph, LangChain, RAG, agent orchestration, Keras/TensorFlow, LLM APIs
-**Cloud / Infra:** Azure (Functions, Data Factory, DevOps, App Service), Docker, GitHub Actions
-**Frontend:** React, TypeScript, HTML/CSS
-**Dev Tools:** VS Code, PyCharm, Postman, Claude Code, Codex
-**Currently learning:** Rust, low-latency C++, LLM inference optimization (vLLM, SGLang)
+12-node planner-executor-evaluator agent with ChromaDB memory and fault injection.
 
----
+* Implemented dynamic replanning across 5 conditional edges with a custom JSONL telemetry layer tracking 8 span types.
+* Designed a fault-injection harness (timeouts, exceptions, malformed LLM outputs); ran 200+ sessions, generated 10K+ log records.
+* Categorized 185 failure modes, achieved 76% task completion under active failure conditions.
+* **Stack:** Python, LangGraph, LangChain, ChromaDB
 
-## 📊 GitHub Stats
+### [DentAI (SacHacks 2026, 1st Place / ~80 teams)](https://github.com/Burnfireblaze/dental-ai)
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Burnfireblaze&show_icons=true&theme=radical&hide_border=true" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burnfireblaze&layout=compact&theme=radical&hide_border=true" />
+AI-assisted dental X-ray review and report generation platform.
+
+* Fine-tuned a 2-model YOLOv8 detection ensemble behind an async FastAPI job queue, deduplicating overlapping boxes at IoU >= 0.5.
+* Routed detections into an LLM report generator (Groq, Ollama, Hugging Face) with a 4-tier provider fallback.
+* **Stack:** Python, YOLOv8, FastAPI, Groq, Hugging Face
+
+### [Wirecracker](https://github.com/UCD-193AB-ws24/Wirecracker)
+
+Clinical decision-support platform for epilepsy surgery planning at UC Davis Neurology.
+
+* Built backend REST APIs for spatial brain-region queries and patient data ingestion.
+* Integrated interactive visualization frontends for clinical diagnostic workflows.
+* **Stack:** TypeScript, Node.js, PostgreSQL
+
+## Experience
+
+### AB InBev, Bengaluru (Aug 2022 to Jul 2025)
+
+**Software Engineer II, Full Stack, promoted from Software Engineer I.** Shipped production backend, data, and full-stack systems for a global CPG platform.
+
+#### Financial Reconciliation Platform (150M+ daily records, 100K+ accounts, 5 regions)
+
+* Cut submit-reconciliation latency from ~50s to ~4s and cross-table query latency from ~5s to ~200ms by rewriting the query layer (predicate pushdown, deferred joins, duplicate-scan elimination) across 140+ MSSQL tables.
+* Re-architected the reconciliation compute layer into 6 queue-triggered Azure Function jobs, splitting single and bulk paths to sidestep function execution limits.
+* Built bulk-reconciliation rules that auto-clear ~30% of accounts per month with no manual review.
+
+#### Supply Chain Planning Platform
+
+* Cut customer-facing search latency from ~20s to ~200ms with a filter-pushdown query API using deferred joins and server-side pagination.
+* Built Azure Data Factory ETL pipelines processing 10M+ daily rows from Snowflake to MSSQL.
+* **Stack:** React, Node.js, Azure Functions, MSSQL, Snowflake, Azure Data Factory
+
+#### Reliability and Team
+
+* Region-level DRI on 100+ production incidents across 5 regions through month-end close cycles.
+* Reviewed 50+ PRs/month across an 8-engineer team.
+* Wrote the internal REST API contract registry and dependency-injection conventions the team adopted.
+* Wired Snyk and Apiiro as CI/CD gates for critical vulnerabilities.
+
+## Tech Stack
+
+* **Languages:** C++, Python, C, JavaScript, TypeScript, SQL
+* **Backend and Systems:** REST APIs, gRPC, FastAPI, Flask, Node.js, PBFT consensus, UDP, erasure coding, event-driven architectures, observability
+* **Databases:** SQL Server, PostgreSQL, MySQL, MongoDB, Redis, DuckDB, ChromaDB, Snowflake
+* **AI and ML:** LangGraph, LangChain, RAG, LLM agents, model inference, fine-tuning, YOLOv8, Hugging Face, PyTorch
+* **Cloud and Infra:** Azure (Functions, Data Factory, DevOps), AWS, GCP, Docker, Kubernetes, Kafka
+* **Frontend:** React, TypeScript
+* **Currently Learning:** Rust, low-latency C++, LLM inference optimization (vLLM, SGLang)
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Burnfireblaze&show_icons=true&hide_border=true&count_private=true&theme=dark" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Burnfireblaze&hide_border=true&theme=dark" height="165" />
 </p>
-<br clear="both"/>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Burnfireblaze&theme=radical&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burnfireblaze&layout=compact&hide_border=true&theme=dark" height="165" />
+  <img src="https://leetcard.jacoblin.cool/Burnfireblaze?theme=dark&font=Karma&ext=contest" height="165" />
 </p>
-
-### LeetCode
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Burnfireblaze?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/Burnfireblaze/)
 
 ---
 
-*Open to full-time roles in Backend Engineering, Distributed Systems, Platform Engineering, and Applied AI / Agent Infrastructure, starting June 2027.*
+**Available for full-time roles starting June 2027 in Software Engineering, Backend Engineering, Distributed Systems, and Applied AI.**
