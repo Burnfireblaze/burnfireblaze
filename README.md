@@ -32,7 +32,7 @@ Contributor and PR author on ReSQL, a SQL-based relational service layer merged 
 
 * Integrated an embedded DuckDB SQL engine into the core key-value storage layer.
 * Authored deployment and startup tooling for 4-replica PBFT consensus clusters.
-* Merged via [PR #224](https://github.com/apache/incubator-resilientdb/pull/224) (26 commits, +799 lines).
+* Merged via [PR #224](https://github.com/apache/incubator-resilientdb/pull/224).
 * Stack: C++, PBFT consensus, DuckDB
 
 ### [Chaos-Tested LangGraph Agent](https://github.com/Burnfireblaze/ai-travel-agent)
