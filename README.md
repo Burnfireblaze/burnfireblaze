@@ -26,13 +26,14 @@ Reliable file transfer protocol over UDP using Reed-Solomon erasure coding (Inte
 * Sustained ~1000 Mbps steady throughput across 0-10% packet loss on 100 MiB to 1 GiB transfers.
 * **Stack:** C++, UDP, Reed-Solomon
 
-### [Apache ResilientDB / ResQL](https://github.com/DDS-Project-Team/resilientdb-resql)
+### [Apache ResilientDB / ReSQL](https://github.com/apache/incubator-resilientdb)
 
-Open-source contribution to Apache ResilientDB, a Byzantine Fault Tolerant blockchain framework in C++.
+Contributor and PR author on ReSQL, a SQL-based relational service layer merged into Apache ResilientDB (v1.13.0), a Byzantine Fault Tolerant blockchain framework in C++.
 
 * Integrated an embedded DuckDB SQL engine into the core key-value storage layer.
 * Authored deployment and startup tooling for 4-replica PBFT consensus clusters.
-* **Stack:** C++, PBFT consensus, DuckDB
+* Merged via [PR #224](https://github.com/apache/incubator-resilientdb/pull/224) (26 commits, +799 lines).
+* Stack: C++, PBFT consensus, DuckDB
 
 ### [Chaos-Tested LangGraph Agent](https://github.com/Burnfireblaze/ai-travel-agent)
 
