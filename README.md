@@ -108,4 +108,4 @@ Clinical decision-support platform for epilepsy surgery planning at UC Davis Neu
 
 ---
 
-**Available for full-time roles starting June 2027 in Software Engineering, Backend Engineering, Distributed Systems, and Applied AI.**
+**Available for full-time roles starting June 2027 in Software Engineering, Backend Engineering, Distributed Systems, and Applied / Agentic AI..**
