@@ -4,7 +4,7 @@
 
 I build backend systems and production software, with a focus on APIs, data-intensive services, performance, and reliable distributed systems. I also work on applied AI, agentic systems, and AI infrastructure.
 
-Currently pursuing my MS in Computer Science at UC Davis, graduating June 2027. Previously spent 3+ years at AB InBev in Bengaluru as a Full Stack Software Engineer. Worked on high-throughput financial and supply chain systems across multiple regions.
+Currently pursuing my MS in Computer Science at UC Davis. Previously spent 3+ years at AB InBev in Bengaluru as a Full Stack Software Engineer. Worked on high-throughput financial and supply chain systems across multiple regions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sudarsan%20Srivathsun-blue?style=flat-square)](https://linkedin.com/in/sudarsan-srivathsun)
 [![Portfolio](https://img.shields.io/badge/Portfolio-sudarsansrivathsun.com-black?style=flat-square)](https://sudarsansrivathsun.com)
@@ -106,7 +106,3 @@ Clinical decision-support platform for epilepsy surgery planning at UC Davis Neu
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burnfireblaze&layout=compact&hide_border=true&theme=dark" height="165" />
   <img src="https://leetcard.jacoblin.cool/Burnfireblaze?theme=dark&font=Karma&ext=contest" height="165" />
 </p>
-
----
-
-**Available for full-time roles starting June 2027 in Software Engineering, Backend Engineering, Distributed Systems, and Applied AI / Agentic AI.**
